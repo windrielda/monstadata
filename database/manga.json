@@ -1,0 +1,41 @@
+/* structureV1.0 Rev 0 */
+{
+  "manga_id": "a-dragonslayers-peerless-regression",
+  "title": "A Dragonslayer’s Peerless Regression",
+  "alternative_title": "Yongsaljaui Mudonhan Hoegwi, The Peerless Regression of a Dragon Slayer",
+  "status": "Ongoing",
+  "author": "Do-shin",
+  "artist": "Toy",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Shounen"
+  ],
+  "type": "Manhwa",
+  "release_year": 2023,
+  "rating": "4.8",
+  "synopsis": "Giles, pembantai naga terkuat umat manusia, menemui ajalnya setelah dikhianati oleh sekutunya sendiri di sarang naga. Namun, ketika dia membuka matanya kembali, dia mendapati dirinya terlempar ke masa lalu, tepat sebelum semua tragedi dimulai. Berbekal ingatan masa depan dan kemampuan bertarung yang tiada tanding, Giles memulai langkahnya kembali untuk membalas dendam dan mencegah kehancuran dunia.",
+  "cover_url": "https://raw.githubusercontent.com/username/repo-assets/main/covers/a-dragonslayers-peerless-regression.jpg",
+  "chapters": [
+    {
+      "chapter_number": "01",
+      "chapter_title": "Prologue: Pengkhianatan di Batas Akhir",
+      "images": [
+        "https://raw.githubusercontent.com/username/repo-assets/main/manga/a-dragonslayers-peerless-regression/ch-01/001.jpg",
+        "https://raw.githubusercontent.com/username/repo-assets/main/manga/a-dragonslayers-peerless-regression/ch-01/002.jpg",
+        "https://raw.githubusercontent.com/username/repo-assets/main/manga/a-dragonslayers-peerless-regression/ch-01/003.jpg",
+        "https://raw.githubusercontent.com/username/repo-assets/main/manga/a-dragonslayers-peerless-regression/ch-01/004.jpg"
+      ]
+    },
+    {
+      "chapter_number": "02",
+      "chapter_title": "Kembali ke Masa Lalu",
+      "images": [
+        "https://raw.githubusercontent.com/username/repo-assets/main/manga/a-dragonslayers-peerless-regression/ch-02/001.jpg",
+        "https://raw.githubusercontent.com/username/repo-assets/main/manga/a-dragonslayers-peerless-regression/ch-02/002.jpg",
+        "https://raw.githubusercontent.com/username/repo-assets/main/manga/a-dragonslayers-peerless-regression/ch-02/003.jpg"
+      ]
+    }
+  ]
+}
